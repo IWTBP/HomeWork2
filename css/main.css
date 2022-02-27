@@ -1,0 +1,40 @@
+body {
+	font-family: Arial, Tahoma, sans-serif;
+	font-size: 20px;
+}
+
+div, p, input, span, button, form, a, ul, ol, li, h2 {
+	box-sizing: border-box;
+}
+
+h1 {
+	color: red;
+}
+.new{
+	color: white;
+	background: blue;
+	width: 140px;
+	height: 140px;
+}
+#block {
+	color: black;
+}
+.what{
+	height: 180px;
+	padding: 70px; 
+}
+
+p{
+	line-height: 1.7em;
+}
+.text {
+	color: red;
+}
+h2 {
+	background: green;
+	color: white;
+}
+li {
+	border: solid black;
+	font-size: 35px;
+}
